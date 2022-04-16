@@ -1,0 +1,22 @@
+{
+  "name": "security-authentication",
+  "version": "1.0.0",
+  "description": "Node Security Authentication Exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmargdev/node-security-authentication.git"
+  },
+  "author": "John Margaronis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmargdev/node-security-authentication/issues"
+  },
+  "homepage": "https://github.com/jmargdev/node-security-authentication#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
