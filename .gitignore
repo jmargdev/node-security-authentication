@@ -131,3 +131,6 @@ dist
 
 # Self-signed certs for development
 *.pem
+
+# Request development
+*.http
